@@ -2,4 +2,6 @@
 
 # Bachelor's Thesis: Cross-correlated phase-noise measurement system 
  
-![](/thema.png)
+![](/extras/thema.png)
+
+![](/extras/PN_Plot.png)
